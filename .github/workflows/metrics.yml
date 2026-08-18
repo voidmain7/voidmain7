@@ -15,4 +15,33 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
- 
+
+          # --- Plugin: gráfico de líneas con actividad de commits ---
+          plugin_lines: yes
+          plugin_lines_sections: base
+
+          # --- Plugin: lenguajes de programación más usados ---
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_categories: markup, programming
+          plugin_languages_limit: 8
+
+          # --- Plugin: repos destacados / pinned ---
+          plugin_pagespeed: no
+
+          # --- Plugin: gráfico de calendario tipo "heatmap" de contribuciones ---
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+          # --- Plugin: racha de commits (streak) ---
+          plugin_habits: yes
+          plugin_habits_charts_type: bar
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+
+          # --- Plugin: estrellas recibidas en tus repos ---
+          plugin_stars: yes
+          plugin_stars_limit: 4
+
+          # --- Plugin: introducción con avatar y estado ---
+          plugin_introduction: yes
