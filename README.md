@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=800&color=00FF9C&center=true&vCenter=true&width=480&lines=Soldering+things+together...;Building+a+Survival+game+in+Unity+%F0%9F%8C%B2;Wiring+an+ESP32-S3+wearable+%F0%9F%8E%AE;Modeling+parts+in+3D+%F0%9F%A7%8A;Debugging+at+3AM+again+%E2%98%95;99%25+finished%2C+as+always+%F0%9F%98%85;WIP+always+%F0%9F%9A%A7" alt="Typing SVG" />
 </p>
 <p align="center">
-  🔧 Electronics hobbyist &nbsp;|&nbsp; 🛠️ ESP32-S3 tinkerer &nbsp;|&nbsp; 🚧 Permanent work in progress
+  🔧 Electronics hobbyist &nbsp;|&nbsp; 🛠️ Gaming and indie dev &nbsp;|&nbsp; 🚧 Permanent work in progress
 </p>
 
 ---
