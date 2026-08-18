@@ -13,7 +13,7 @@
 ### ⚡ Lo que ando montando
 
 - 🎮 **Pip-Boy real** sobre un ESP32-S3 (Freenove CYD 2.8"), con LVGL para la UI y radio Sub-GHz vía CC1101
-- 🌀 Un robot de combate tipo peonza (Beyblade-style), con base motorizada y carcasa libre superior
+- 🌲 Un **videojuego de survival en Unity**, porque programar de noche también cuenta como hobby
 - 🔩 Rescatando componentes de placas viejas porque tirar cosas es de cobardes
 
 ### 🧰 Stack / Herramientas
@@ -22,10 +22,17 @@
   <img src="https://img.shields.io/badge/ESP32--S3-E7352C?style=flat&logo=espressif&logoColor=white" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/KiCad-314CB0?style=flat&logo=kicad&logoColor=white" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="/github-metrics.svg"
+  <img src="/github-metrics.svg" alt="Metrics" width="100%">
+</p>
+
+<p align="center">
+  <i>🚧 Si algo no compila, es una feature en desarrollo.</i>
+</p>
