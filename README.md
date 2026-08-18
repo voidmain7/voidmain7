@@ -1,4 +1,7 @@
 ## Hi there 👋
+
+🚧 Work in progress — como todo lo que merece la pena
+
 ![Metrics](/github-metrics.svg)
 <!--
 **voidmain7/voidmain7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
