@@ -1,36 +1,41 @@
 <h1 align="center">Hi there, I'm voidmain7 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF9C&center=true&vCenter=true&width=440&lines=Soldering+things+together...;Building+a+Pip-Boy+%F0%9F%93%BB;ESP32-S3+%2B+LVGL+%2B+chaos;WIP+always+%F0%9F%9A%A7" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=800&color=00FF9C&center=true&vCenter=true&width=480&lines=Soldering+things+together...;Building+a+Survival+game+in+Unity+%F0%9F%8C%B2;Wiring+an+ESP32-S3+wearable+%F0%9F%8E%AE;Modeling+parts+in+3D+%F0%9F%A7%8A;Debugging+at+3AM+again+%E2%98%95;99%25+finished%2C+as+always+%F0%9F%98%85;WIP+always+%F0%9F%9A%A7" alt="Typing SVG" />
 </p>
-
 <p align="center">
   🔧 Electronics hobbyist &nbsp;|&nbsp; 🛠️ ESP32-S3 tinkerer &nbsp;|&nbsp; 🚧 Permanent work in progress
 </p>
 
 ---
 
-### ⚡ Lo que ando montando
+### ⚡ Mis tres focos
 
-- 🎮 **Pip-Boy real** sobre un ESP32-S3 (Freenove CYD 2.8"), con LVGL para la UI y radio Sub-GHz vía CC1101
-- 🌲 Un **videojuego de survival en Unity**, porque programar de noche también cuenta como hobby
-- 🔩 Rescatando componentes de placas viejas porque tirar cosas es de cobardes
+- 🌲 **Survival 3D en Unity** — sistema de supervivencia, mundo abierto y mecánicas de exploración
+- 🎮 **Wearable con ESP32-S3** — dispositivo con sensores integrados, del PCB al firmware
+- 🧊 **Modelado 3D** — diseño de piezas y carcasas según lo que cada proyecto pida
 
 ### 🧰 Stack / Herramientas
 
 <p align="left">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat&logo=blender&logoColor=white" />
   <img src="https://img.shields.io/badge/ESP32--S3-E7352C?style=flat&logo=espressif&logoColor=white" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white" />
   <img src="https://img.shields.io/badge/KiCad-314CB0?style=flat&logo=kicad&logoColor=white" />
+  <img src="https://img.shields.io/badge/Proteus-1C7E33?style=flat&logo=data%3Aimage%2Fpng%3Bbase64%2C&logoColor=white" />
+  <img src="https://img.shields.io/badge/3D%20Printing-FF6F00?style=flat&logo=cults3d&logoColor=white" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="/github-metrics.svg" alt="Metrics" width="100%">
+  <img src="github-metrics.svg" alt="Metrics">
 </p>
 
 <p align="center">
