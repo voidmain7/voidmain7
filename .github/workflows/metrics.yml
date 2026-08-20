@@ -34,10 +34,10 @@ jobs:
           plugin_isocalendar_duration: full-year
 
           # --- Plugin: racha de commits (streak) ---
-          plugin_habits: yes
-          plugin_habits_charts_type: bar
-          plugin_habits_days: 14
-          plugin_habits_facts: no
+          # Desactivado: bug sin arreglar en lowlighter/metrics que rompe
+          # esta sección cuando un push event trae un commit undefined
+          # (https://github.com/lowlighter/metrics/issues/1739)
+          plugin_habits: no
 
           # --- Plugin: estrellas recibidas en tus repos ---
           plugin_stars: yes
