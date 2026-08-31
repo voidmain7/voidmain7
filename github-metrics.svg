@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            336 Commits
+                            337 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -238,14 +238,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="148.9833970711487" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="148.9833970711487" y="0" width="118.27243901773187" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="267.2558360888806" y="0" width="101.16432232884242" height="8" fill="#7355dd"/>
-                    <rect mask="url(#languages-bar)" x="368.420158417723" y="0" width="52.93381033337195" height="8" fill="#945db7"/>
-                    <rect mask="url(#languages-bar)" x="421.35396875109495" y="0" width="18.557590059265316" height="8" fill="#AA6746"/>
-                    <rect mask="url(#languages-bar)" x="439.9115588103603" y="0" width="9.19717007109215" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="449.1087288814524" y="0" width="6.024821742981872" height="8" fill="#dd1100"/>
-                    <rect mask="url(#languages-bar)" x="455.1335506244343" y="0" width="4.866449375565735" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="148.9876564865247" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="148.9876564865247" y="0" width="118.26266907251464" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="267.25032555903937" y="0" width="101.16721460327369" height="8" fill="#7355dd"/>
+                    <rect mask="url(#languages-bar)" x="368.41754016231306" y="0" width="52.935323703922485" height="8" fill="#945db7"/>
+                    <rect mask="url(#languages-bar)" x="421.35286386623557" y="0" width="18.558120618280576" height="8" fill="#AA6746"/>
+                    <rect mask="url(#languages-bar)" x="439.9109844845161" y="0" width="9.197433016953145" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="449.10841750146926" y="0" width="6.024993991828887" height="8" fill="#dd1100"/>
+                    <rect mask="url(#languages-bar)" x="455.1334114932982" y="0" width="4.866588506701851" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2314,7 +2314,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>justcallmekoko/ESP32Marauder</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32</div>
@@ -2505,7 +2505,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 31 Aug 2026, 02:10:06  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 31 Aug 2026, 16:58:14  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
