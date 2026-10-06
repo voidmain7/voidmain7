@@ -19,21 +19,43 @@
 
 ### 🧰 Stack / Herramientas
 
+#### 💻 Lenguajes de Programación
 <p align="left">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" />
+</p>
+
+#### 🎮 Frameworks & Motores de Juegos
+<p align="left">
   <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" />
+</p>
+
+#### 🔌 Microcontroladores & Embebidos
+<p align="left">
   <img src="https://img.shields.io/badge/ESP32--S3-E7352C?style=flat&logo=espressif&logoColor=white" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white" />
+</p>
+
+#### ⚡ Herramientas de Electrónica (PCB)
+<p align="left">
   <img src="https://img.shields.io/badge/KiCad-314CB0?style=flat&logo=kicad&logoColor=white" />
   <img src="https://img.shields.io/badge/Proteus-1C7E33?style=flat&logo=data%3Aimage%2Fpng%3Bbase64%2C&logoColor=white" />
-  <img src="https://img.shields.io/badge/SolidWorks-ED1C24?style=flat&logo=solidworks&logoColor=white" />
+</p>
+
+#### 🎨 Diseño 3D & CAD
+<p align="left">
   <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat&logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/SolidWorks-ED1C24?style=flat&logo=solidworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fusion%20360-0093D0?style=flat&logo=autodesk&logoColor=white" />
   <img src="https://img.shields.io/badge/3D%20Printing-FF6F00?style=flat&logo=cults3d&logoColor=white" />
+</p>
+
+#### 🛠️ Herramientas de Desarrollo
+<p align="left">
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white" />
