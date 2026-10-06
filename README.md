@@ -23,13 +23,9 @@
 <p align="left">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-</p>
-
-#### 🎮 Frameworks & Motores de Juegos
-<p align="left">
-  <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" />
 </p>
 
@@ -43,22 +39,36 @@
 #### ⚡ Herramientas de Electrónica (PCB)
 <p align="left">
   <img src="https://img.shields.io/badge/KiCad-314CB0?style=flat&logo=kicad&logoColor=white" />
-  <img src="https://img.shields.io/badge/Proteus-1C7E33?style=flat&logo=data%3Aimage%2Fpng%3Bbase64%2C&logoColor=white" />
+  <img src="https://img.shields.io/badge/Proteus-1C7E33?style=flat&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTEyIDJDNi40OCAyIDIgNi40OCAyIDEyczQuNDggMTAgMTAgMTAgMTAtNC40OCAxMC0xMFM3LjUyIDIgMTIgMnptLTIgMTVoNHYyaC00em0wLTRoNHY0aC00em0wLTRoNHY0aC00em0tMi00aDJ2MmgtMnoiLz48L3N2Zz4%3D&logoColor=white" />
+</p>
+
+#### 📊 Equipos de Medición
+<p align="left">
+  <img src="https://img.shields.io/badge/Osciloscopio-FF6B6B?style=flat&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTMgMkg1VjEySzEyVjJIMjFWMTJIMjNWMjBIMVYxMkgzVjJaIi8+PC9zdmc%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Multímetro-4ECDC4?style=flat&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTEyIDJDNi40OCAyIDIgNi40OCAyIDEyczQuNDggMTAgMTAgMTAgMTAtNC40OCAxMC0xMFM3LjUyIDIgMTIgMnptMCA4YTIgMiAwIDEgMCAwLTQgMiAyIDAgMCAwIDAgNHptNSAwaDN2Mkg0djNoMXYtMmg3djNoMXYtM3oiLz48L3N2Zz4%3D&logoColor=white" />
 </p>
 
 #### 🎨 Diseño 3D & CAD
 <p align="left">
   <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat&logo=blender&logoColor=white" />
-  <img src="https://img.shields.io/badge/SolidWorks-ED1C24?style=flat&logo=solidworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/SolidWorks-ED1C24?style=flat&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTMgM2gxOHYxOEgzVjN6TTUgNXYxNGgxNFY1SDV6TTcgN2gxMHYxMEg3Vjd6Ii8+PC9zdmc%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Fusion%20360-0093D0?style=flat&logo=autodesk&logoColor=white" />
-  <img src="https://img.shields.io/badge/3D%20Printing-FF6F00?style=flat&logo=cults3d&logoColor=white" />
+  <img src="https://img.shields.io/badge/3D%20Printing-FF6F00?style=flat&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTEyIDJDNi40OCAyIDIgNi40OCAyIDEyczQuNDggMTAgMTAgMTAgMTAtNC40OCAxMC0xMFM3LjUyIDIgMTIgMnptMCAyYzQuNDEgMCA4IDMuNTkgOCA4cy0zLjU5IDgtOCA4LTgtMy41OS04LTggMy41OS04IDggOHptLTIgN2gydjNoLTJ6bTQgMGgydjNoLTJ6bTIgM2gwdjJoNHYtMnptLTggMGgwdjJoNHYtMnoiLz48L3N2Zz4%3D&logoColor=white" />
 </p>
 
 #### 🛠️ Herramientas de Desarrollo
 <p align="left">
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git%20LFS-F64935?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino%20IDE-00979D?style=flat&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/PuTTY-A03D2C?style=flat&logo=putty&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white" />
+</p>
+
+#### 🎮 Motor de Juegos
+<p align="left">
+  <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white" />
 </p>
 
 ---
